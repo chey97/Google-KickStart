@@ -1,4 +1,3 @@
-  
 import java.util.*;
 public class Solution{
     public static int calculate(long arr[][]){
